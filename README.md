@@ -3,7 +3,7 @@
 <img
   align="right"
   src="https://github.com/Puumpkin/Puumpkin/blob/main/assets/bbb0a1afc77445da4484599a73de8c3e.gif"
-  style="height: 180px"
+  style="height: 250px"
 />
 <p align="center">(〜￣▽￣)〜</p>
 <p>
@@ -12,4 +12,4 @@
   still new to everything, but I'm having fun.
 </p>
 <h2>📚 Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puumpkin&hide_title=true&card_width=360&langs_count=10&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puumpkin&hide_title=true&card_width=360&langs_count=10&layout=compact&theme=maroongold">
