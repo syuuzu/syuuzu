@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Puumpkin
-- 👀 I’m interested in pumpkins
-- 🌱 I’m currently learning how to use this website
-- 💞️ I’m looking to collaborate on most things
 
-<!---
-Puumpkin/Puumpkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1> 🍂 Pumpkin 🍂 </h1>
+<p>I am a future computer science major. Currently, I like to just mess around with stuff and if I make something interesting I usually put it here! I'm still new to everything, but I am having fun. </p>
+
+<img align="right" src="https://github.com/Puumpkin/Puumpkin/blob/main/assets/bbb0a1afc77445da4484599a73de8c3e.gif" style="height: 180px;" />
