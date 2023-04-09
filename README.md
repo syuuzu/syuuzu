@@ -3,7 +3,7 @@
 <img
   align="right"
   src="https://github.com/Puumpkin/Puumpkin/blob/main/assets/bbb0a1afc77445da4484599a73de8c3e.gif"
-  style="height: 180px"
+  style="height: 150px"
 />
 <p align="center">(〜￣▽￣)〜</p>
 <p>
