@@ -8,7 +8,7 @@
 <p align="center">(〜￣▽￣)〜</p>
 <p>
   I am a future computer science major. Currently, I like to just mess around
-  with stuff<br>and if I make something interesting I usually put it here! I'm
+  with stuff and if I make something interesting I usually put it here! I'm
   still new to everything,<br> but I'm having fun.
 </p>
 
