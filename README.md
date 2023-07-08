@@ -7,7 +7,7 @@
 />
 <p align="center">(〜￣▽￣)〜</p>
 <p>
-  I am a future computer science major. Currently, I like to just mess around
+  I am a computer science major. Currently, I like to just mess around
   with stuff and if I make something interesting I usually put it here! I'm
   still new to everything, but I'm having fun.
 </p>
