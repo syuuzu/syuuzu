@@ -1,11 +1,6 @@
 
 <h1>✰syuzu✰</h1>
-<img
-  align="right"
-  src="https://github.com/Puumpkin/Puumpkin/blob/main/assets/bbb0a1afc77445da4484599a73de8c3e.gif"
-  style="height: 150px"
-/>
-<p align="center">(〜￣▽￣)〜</p>
+<p align="center"><img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif/></p>
 <p>
   I am a computer science major. Currently, I like to just mess around
   with stuff and if I make something interesting I usually put it here! I'm
