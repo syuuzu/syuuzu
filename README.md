@@ -3,8 +3,7 @@
 <h1>syuzu<img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif" width=48 height=48/></h1>
 <img
   align="right"
-  src="https://github.com/syuuzu/syuuzu/blob/main/assets/ciubal-faimly-the-hololive-monochrome.gif"
-  style="height: 100px"
+  src="https://cdn.discordapp.com/emojis/1091854424953073885.webp?size=96&quality=lossless"
 />
 <p>
   I am a computer science major. Currently, I like to just mess around
