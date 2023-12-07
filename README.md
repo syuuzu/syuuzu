@@ -4,7 +4,7 @@
 <img
   align="right"
   src="https://github.com/syuuzu/syuuzu/blob/main/assets/ciubal-faimly-the-hololive-monochrome.gif"
-  style="height: 150px"
+  style="height: 100px"
 />
 <p>
   I am a computer science major. Currently, I like to just mess around
