@@ -1,6 +1,6 @@
 
 <h1>✰syuzu✰</h1>
-<p align="center"><img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif/></p>
+<p align="center"><img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif"/></p>
 <p>
   I am a computer science major. Currently, I like to just mess around
   with stuff and if I make something interesting I usually put it here! I'm
