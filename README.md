@@ -1,5 +1,6 @@
 
-<h1><img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif"/>✰syuzu✰<img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif"/></h1>
+
+<h1><img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif" width=48 height=48/>✰syuzu✰<img src="https://github.com/syuuzu/syuuzu/blob/main/assets/1091853954045972530.gif" width=48 height=48/></h1>
 
 <p>
   I am a computer science major. Currently, I like to just mess around
