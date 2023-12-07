@@ -6,7 +6,7 @@
   src="https://cdn.discordapp.com/emojis/1091854424953073885.webp?size=96&quality=lossless"
 />
 <p>
-  Hello welcome to my github! Currently, I like to just mess around<br>
+  Welcome to my github! Currently, I like to just mess around<br>
   with stuff and if I make something interesting I usually put it here. I'm<br>
   still new to everything, but I'm having fun.
 </p>
