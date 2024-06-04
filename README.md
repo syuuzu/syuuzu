@@ -6,7 +6,7 @@
   src="https://cdn.discordapp.com/emojis/1091854424953073885.webp?size=96&quality=lossless"
 />
 <p>
-  Welcome to my github! I'm a CS student interested in Linux and other free and open source software.<br>
+  Welcome to my GitHub! I'm a CS student interested in Linux and other free and open source software.<br>
   Currently, I am a full time student so don't expect many projects.<br>
   I'm still new to everything, but I'm having fun.
 </p>
