@@ -10,4 +10,4 @@
   Currently, I am a full time student so don't expect many projects.<br>
 </p>
 <h2>✰ Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syuuzu&hide_title=true&card_width=360&langs_count=10&layout=compact&theme=dark">
+<img src="https://raw.githubusercontent.com/syuuzu/github-stats/master/generated/languages.svg#gh-dark-mode-only">
