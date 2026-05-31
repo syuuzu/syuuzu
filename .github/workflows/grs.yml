@@ -17,7 +17,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=dark&layout=compact
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MY_PAT }}
 
       - name: Commit cards
         run: |
