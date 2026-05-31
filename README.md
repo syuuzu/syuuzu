@@ -10,4 +10,4 @@
   Currently, I am a full time student so don't expect many projects.<br>
 </p>
 <h2>✰ Languages</h2>
-<img src="https://raw.githubusercontent.com/syuuzu/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+![Stats](./profile/stats.svg)
