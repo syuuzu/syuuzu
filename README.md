@@ -6,7 +6,7 @@
   src="https://cdn.discordapp.com/emojis/1091854424953073885.webp?size=96&quality=lossless"
 />
 <p>
-  Welcome to my GitHub! I'm a CS student interested in FOSS, Cyber Security, Self Hosting, Linux, and more.<br>
+  I'm a cs student interested in FOSS, cyber security, self hosting, linux, and more.<br>
 <br>
 </p>
 <h2>✰ Languages</h2>
